@@ -1,0 +1,7 @@
+sudo apt-get install build-essential
+cd ~
+git clone https://github.com/OpenSprinkler/OpenSprinkler-Firmware.git
+cd OpenSprinkler-Firmware
+sudo ./build.sh ospi
+
+refernece-website https://openthings.freshdesk.com/support/solutions/articles/5000631599-installing-and-updating-the-unified-firmware
